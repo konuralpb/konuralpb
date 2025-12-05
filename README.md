@@ -13,4 +13,4 @@
 * **Aselsan** - Intern Software Engineer (Full-stack Development w/ .NET & React)
 
 ---
-[Email](mailto:bolkonuralp@gmail.com) • [LinkedIn](LINKEDIN_PROFILE_LINK)
+[Email](mailto:bolkonuralp@gmail.com) • [LinkedIn]([LINKEDIN_PROFILE_LINK](https://www.linkedin.com/in/konuralpbol/))
