@@ -1,16 +1,16 @@
-## Hi there 👋
+# Konuralp BOL
 
-<!--
-**konuralpb/konuralpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineering Student @ YTU**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+* **Languages:** C#, Java, Python, C, ASM
+* **Core:** .NET, Unity, React, MongoDB
+* **Architecture:** DDD, Onion Architecture, CQRS
+
+### Experience
+* **Aselsan** - Intern Software Engineer (Full-stack Development w/ .NET & React)
+
+---
+[Email](mailto:bolkonuralp@gmail.com) • [LinkedIn](LINKEDIN_PROFILE_LINK)
